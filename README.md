@@ -1,0 +1,1 @@
+Apenas alguns exercícios para praticar lógica de programação, tenho feito diversos exercícios como estes através de um livro que tenho usado como referência para estudar, mas vou começar a fazer alguns que encontrar na internet também.
